@@ -6,7 +6,6 @@ Este proyecto presenta un análisis exploratorio de datos y un dashboard interac
 
 El objetivo fue transformar una base de datos con más de 900.000 registros en información útil para comprender la distribución de la producción, las características de los pozos y el aporte de las principales empresas, provincias, cuencas y formaciones geológicas.
 
----
 
 ## Objetivos
 
@@ -16,7 +15,6 @@ El objetivo fue transformar una base de datos con más de 900.000 registros en i
 - Comparar la producción convencional y no convencional.
 - Desarrollar un dashboard interactivo para facilitar la exploración de la información.
 
----
 
 ## Herramientas utilizadas
 
@@ -26,7 +24,6 @@ El objetivo fue transformar una base de datos con más de 900.000 registros en i
 - Power BI
 
 
----
 
 ## Limpieza de datos
 
@@ -38,7 +35,6 @@ Durante el procesamiento de los datos se realizaron las siguientes tareas:
 - Identificación y validación de valores extremos, confirmando la existencia de pozos con producción excepcional en la formación Vaca Muerta.
 - Construcción de tablas resumen para optimizar el análisis y la visualización.
 
----
 
 ## Principales resultados
 
@@ -50,7 +46,6 @@ Durante el procesamiento de los datos se realizaron las siguientes tareas:
 - **YPF** lidera la producción anual entre las empresas operadoras.
 - La provincia de **Neuquén** concentra gran parte de la producción nacional.
 
----
 
 ## Dashboard
 
@@ -61,12 +56,11 @@ El dashboard permite explorar la producción mediante filtros por:
 - Cuenca
 - Tipo de recurso
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](hc_dashboard_2025.pdf)
 
 
----
 
-## 🚀 Próximos pasos
+## Próximos pasos
 
 Este proyecto continuará incorporando nuevas funcionalidades:
 
@@ -75,7 +69,6 @@ Este proyecto continuará incorporando nuevas funcionalidades:
 - Análisis de la productividad de los pozos de mayor rendimiento.
 - Estudio del potencial de los pozos actualmente en etapa de exploración.
 
----
 
 ## Fuente de datos
 
